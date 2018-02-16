@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/b8c6821c68f11ddd62a7a83769c4124d05a218a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_3cd2682ed7b8aab6dea839dad92fc97e5fdae941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/8837561558c9c93099792cd0c8a576cb73bf541e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4552ad0537aadae6c5ea80217ee04f6320d99875.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/d8e53a2ea3b0f0daea6e04fcdb0f97654b2d961f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9544199e668ce316f59784f87807ac6d56168438/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/c2f9850755986e077de9de7552c9b5d8a7b37bae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_805a6942ce4f7c089fddfb36034b87b67ca3aaeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/257d6c9486623b33cc92f103689c721152a82b2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_a22c1f7ffa36ddf093fe2df657b8d31369d0c3a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/a4a5f7228d435e5bc775cc0e4ce31b7be96b455f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b07a7c483ef49cd4f328fa1f65dfc5c80dccf1b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/b7b768f7da9ac0c5ad8015e44ceae6dcd4c7b544/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd992223cde0d49b3961c7b8845320fdfc7ba0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/dce90dc0fb9d1ecea25093ef3bdcf5aa3f0529e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_2fe17508eb46986d5adeaa5fe72450f0c9ca1a76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/d7235a35bda2cbe1d2a374e1f270c0e5dcb512d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7118dc8f8c25d758e43116fc9f38cd391bee97a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/5e179e771a1cd096e2e842e17095f7721cc1fc12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_7d5a632526378ab9e2c5bd02647bdf6cb99abc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/6ab7bf031a6148f4968b1262012f020232291d0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_fbb609eed3fcb6038a25b1ceb1e3e4d5a9c0a040.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/ffb96e742cf2b78ca6f39f9c3025047bf2538448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98bcdcad1f6dda0116245afff608479863691cf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/899e63b8a66fcda453a569126a11d738ffd22d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d6d1e860ad0055deb5683adc3dd1923bd61e19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_535412edcafecec39533f9b8c3be881bd0f71edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/3972d421faf75808bc1960aba5f7b1d2d9cfaf99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_294477873befabb6ec81f13fe90e565195ca59fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/c6ac7b1a517e1b9f7637649bf1522989384a7611/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_219d358f7a71d795449b6653ebdb12e43e43c66f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/f07a199cbeb14b41208ea224837a0ad672d38405/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b278b9a9b6b1626306f05dd87cd6036e1e89b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/f9d50aff91e6915010885fdad8aba877d657da05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4054007ed2e8c7144ab7ee7956eb12b485c0cc8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/6dd3026b780256e22122edfdc6ae29c9608d18fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ae0ca6b7832a91514b41437a97b8cba613688c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/42cf29538898c48c94575271690474516c281823/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_40752c3ee8bfe9dd64955c1e58c7cc9538bf5f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/a19311903eba075dfb06989341501df7a627925a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_011825e00e3b8494846c0f6cf9dc9847c412e707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/ea805daba59654d9fc4a4a2391c4c793e2897da1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_573a2073a09403190ad302cf72dc3c86041ed987.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/0a30c2570f574fac8dacb542461f2558040c8d48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2bfafaaf0e774d99e88b845d427f62041ee8cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/3e00796162b0f3f67ae65dac2103c00334898067/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3196ca89dabb43a02f7fdfb4b9dcd17b27174473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/9bc9d9263dcb9a5c3ca35b193378ec7345d3200b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b24abf5a4f6f8b391a711eb5fa5ba1fd6db9f219/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/6a2792bf7045aa2824ab761239687fcf51ae5b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_9384966a4a695fe05a681edea12aaac6676adb8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/72336486ae9c33cdf39974fe08d7eec379412e42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b34c0afecbede0fde0065ad0573e1818b24396ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/58a1a83b4dc2f5ef7cbd70a9441ad4217e68740c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_df8dd74a9c79888a0e11d4ece59e6caea26c7880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/ffd06e9ae175952ae415a1b88677ac29f8116bb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_97b5daa18930567cca4d377d651f9bcde01c6e9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/feac5f6b06ffad66c7d66e13400f2fc62104aad9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b7c9956f74b19b5d2dd8955db704329b78c58d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/306d73e46529aaaf1fa37544b18f482b2de6af92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97402181ac60118ea3b5fb70f0bd70fbf24d537f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/79d0bc0fb00fb672f442866689843bad4cd6c9f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_252ba28eb608da96bb82b2e2c56e2fe8239b3df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/51212c299230e04397f9d5e6f449787aa0f7a363/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_c23ec6efdf9b56c4aa44ac507d84ff51c6a4e8d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/0fffa71faf9caa12248fee163026db591b40def3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86188f828026e8dbae1d01555bdd9f2dff4cd59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/eb274827b3be6e4ca34abad8a23f1b5f8f73d62f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4421f417f95b64a698214211b62302efc1b3d3f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_1cb248e0d5bafd5f5924c5288ab7bd036352e81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/249f10344d6317fd8a0b4c96ed9396cd16e55e2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_99e0eb87c7431b214e27c99933f59ea220ab9172.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/14562f7303fca251722534e38d3ba391ca0d6042/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4397fd54b24ad9fa616b5d58b27d429bb908c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/290f5db4a54bc8a8a29853664bc3bbded915891f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccca4666e73af06d4543d31baeffba470729b8c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/3a7b29707fbf49dcf4634885085269b9584ecd98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_5e2b479dd0f7afc7597d050843d6f8284efced98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/a4a5f7228d435e5bc775cc0e4ce31b7be96b455f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b07a7c483ef49cd4f328fa1f65dfc5c80dccf1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/b7b768f7da9ac0c5ad8015e44ceae6dcd4c7b544/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_bd992223cde0d49b3961c7b8845320fdfc7ba0d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/c2f9850755986e077de9de7552c9b5d8a7b37bae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_805a6942ce4f7c089fddfb36034b87b67ca3aaeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/3972d421faf75808bc1960aba5f7b1d2d9cfaf99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_294477873befabb6ec81f13fe90e565195ca59fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/1e73b702c0d1a782e84291975a214bb5f5c7fea0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb3d3d495d3d507b88c442ed1c8e7d2472de5db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/c6ac7b1a517e1b9f7637649bf1522989384a7611/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_219d358f7a71d795449b6653ebdb12e43e43c66f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/42cf29538898c48c94575271690474516c281823/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40752c3ee8bfe9dd64955c1e58c7cc9538bf5f00/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/f07a199cbeb14b41208ea224837a0ad672d38405/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_9b278b9a9b6b1626306f05dd87cd6036e1e89b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/aa92baa6061d0de3b585d9dcf4c4fc347dc8631c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_746cbdc667272fb4805424aa3e57c0a9fe8b49e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/899e63b8a66fcda453a569126a11d738ffd22d62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4d6d1e860ad0055deb5683adc3dd1923bd61e19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/5325acbcd3e7fcf60d44780624f0508b59115687/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b93f811d4b980d61985a599db6e3b2c3b4b9e4dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/aece13330459e00d8f716f3c4b6f03befb49ba17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3fba0f9433fcd135ef2ae2187da900d0abd01ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/6dd3026b780256e22122edfdc6ae29c9608d18fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_3ae0ca6b7832a91514b41437a97b8cba613688c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/0d73577eb03512417ab5c37a5c45afc93b9548b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_9a05f8c9ae96d082d22ba4e60d7999ea5d8fd11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/1c82e10e08fd3c8b2182e0b868b215962141d2f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_abeba9b458d60c6c999c751e4d6fd984c911e386.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/a22ad424a176eb5fe1b693742057b2971c0eefce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a081e9ba3c76aa1e320223463b780997c319d701/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/5dc61917d60f89953d549419e3c0078c982a3c18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4ab402c52887636688076dea391baa5e8dd58baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/9bc9d9263dcb9a5c3ca35b193378ec7345d3200b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b24abf5a4f6f8b391a711eb5fa5ba1fd6db9f219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/3e00796162b0f3f67ae65dac2103c00334898067/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_3196ca89dabb43a02f7fdfb4b9dcd17b27174473.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/58a1a83b4dc2f5ef7cbd70a9441ad4217e68740c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df8dd74a9c79888a0e11d4ece59e6caea26c7880/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/0a30c2570f574fac8dacb542461f2558040c8d48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b2bfafaaf0e774d99e88b845d427f62041ee8cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/306d73e46529aaaf1fa37544b18f482b2de6af92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_97402181ac60118ea3b5fb70f0bd70fbf24d537f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/72336486ae9c33cdf39974fe08d7eec379412e42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b34c0afecbede0fde0065ad0573e1818b24396ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/ffd06e9ae175952ae415a1b88677ac29f8116bb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97b5daa18930567cca4d377d651f9bcde01c6e9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/fe2246f7c54fb480f3a52a5245395e0905a4eab6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_315f093b1a458eb35281086968d28e1b55163832/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/79d0bc0fb00fb672f442866689843bad4cd6c9f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_252ba28eb608da96bb82b2e2c56e2fe8239b3df2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/0e3b3d69696e12c564c58dfd81aa4aabd8a35aa8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d996ec7ca6b45e51ece637c91c6e06812b0d475/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/aece13330459e00d8f716f3c4b6f03befb49ba17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_f3fba0f9433fcd135ef2ae2187da900d0abd01ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/3a7b29707fbf49dcf4634885085269b9584ecd98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e2b479dd0f7afc7597d050843d6f8284efced98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/148cdf20bb90f477293c4c204279d7e8fca1e4c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeb0407a66a728261a1a8617c42d7a526b4616ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/1e73b702c0d1a782e84291975a214bb5f5c7fea0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_cb3d3d495d3d507b88c442ed1c8e7d2472de5db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/a22ad424a176eb5fe1b693742057b2971c0eefce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_a081e9ba3c76aa1e320223463b780997c319d701.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/aa92baa6061d0de3b585d9dcf4c4fc347dc8631c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_746cbdc667272fb4805424aa3e57c0a9fe8b49e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/acf198264388992c75682244531b8c3cc19be78f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_84779d3681cd51a5fbb0844e70bb04cf29c9afc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/48ac39a599363416d679ee3856eef539e6376201/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_6aed5670022069c92da57ac1de59ca19f4fe4748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/290f5db4a54bc8a8a29853664bc3bbded915891f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_ccca4666e73af06d4543d31baeffba470729b8c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/5325acbcd3e7fcf60d44780624f0508b59115687/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b93f811d4b980d61985a599db6e3b2c3b4b9e4dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/4d96567927d476c2740bfde938bb7665f8edae78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89d2fa605e596fc02d2546d448e0f02dd5d2f543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/da8235176851088461c2d0aee891475c78a0590f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9701787802e5371b850303681f8e94cf78bc5f99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/1c82e10e08fd3c8b2182e0b868b215962141d2f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abeba9b458d60c6c999c751e4d6fd984c911e386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/0d73577eb03512417ab5c37a5c45afc93b9548b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a05f8c9ae96d082d22ba4e60d7999ea5d8fd11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/5dc61917d60f89953d549419e3c0078c982a3c18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ab402c52887636688076dea391baa5e8dd58baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/cdfc91c600f1a322ff4733a70ba5acbdea65dc11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_714438e53be3c4f1257ef477e74ce61c9f36f807/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/acd44164a4f1d13d3393887d7d186e795d808fc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_078252930d29c145a3458c4fddc11038d1730771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/e62c0c9f319e7cb5e2d72b725ad94babec49f5d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_339371c62d071056c010c0ffb22b6cdd56d5da65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3caaaaf7c8e728c31024b52b396c3fd2b0821fd1">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf4e324b7d3518c4097708e6854f41ed063b661d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/6e9a4e54f463bc84ddb05050fa976439ba8b7542/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f58addb7dc4265118874af8bcf75c235c44fd3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/442db16ab44bfd2c10f1a56a2b59556ff792ae9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b95096576cdf85ed664de4c8a6c5a88114e72ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/fe2246f7c54fb480f3a52a5245395e0905a4eab6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_315f093b1a458eb35281086968d28e1b55163832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/0e3b3d69696e12c564c58dfd81aa4aabd8a35aa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_7d996ec7ca6b45e51ece637c91c6e06812b0d475.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/a32f22e767457eaa129b73c10d851190ae8ecd08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67d24f96f86c564ff42c4d1c2045c6fb0f74e270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/e84563fd96f91ad3155fe732e0c2875773d9e853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5e661d71fa15075da32ba44bf44943825a8c931/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/2cb2a3639a1d1a05bfa2e3db1511514313d89db9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_908fe195eec2a8ddbfee571b927520048d94416f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/3616011b1590befdf72b62d5bb900334e520eaef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3985427fd599696fdba0d2e1dff2ef8393eaf947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/8837561558c9c93099792cd0c8a576cb73bf541e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4552ad0537aadae6c5ea80217ee04f6320d99875/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/da8235176851088461c2d0aee891475c78a0590f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_9701787802e5371b850303681f8e94cf78bc5f99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/b8c6821c68f11ddd62a7a83769c4124d05a218a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cd2682ed7b8aab6dea839dad92fc97e5fdae941/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/d8e53a2ea3b0f0daea6e04fcdb0f97654b2d961f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_9544199e668ce316f59784f87807ac6d56168438.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/dce90dc0fb9d1ecea25093ef3bdcf5aa3f0529e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fe17508eb46986d5adeaa5fe72450f0c9ca1a76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/257d6c9486623b33cc92f103689c721152a82b2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a22c1f7ffa36ddf093fe2df657b8d31369d0c3a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/02ce14daebdb01f185d22c573edea9f5ab8a8c77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_75321ab40e5d42739913aabdf455836c6acb0bec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/6ab7bf031a6148f4968b1262012f020232291d0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb609eed3fcb6038a25b1ceb1e3e4d5a9c0a040/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/d7235a35bda2cbe1d2a374e1f270c0e5dcb512d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_7118dc8f8c25d758e43116fc9f38cd391bee97a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/5e179e771a1cd096e2e842e17095f7721cc1fc12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d5a632526378ab9e2c5bd02647bdf6cb99abc09/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4a846f6a83d89c6956c0d5079193c31684319c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/ffb96e742cf2b78ca6f39f9c3025047bf2538448/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_98bcdcad1f6dda0116245afff608479863691cf6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/acf198264388992c75682244531b8c3cc19be78f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84779d3681cd51a5fbb0844e70bb04cf29c9afc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/148cdf20bb90f477293c4c204279d7e8fca1e4c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_eeb0407a66a728261a1a8617c42d7a526b4616ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/48ac39a599363416d679ee3856eef539e6376201/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6aed5670022069c92da57ac1de59ca19f4fe4748/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/4d96567927d476c2740bfde938bb7665f8edae78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_89d2fa605e596fc02d2546d448e0f02dd5d2f543.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/f9d50aff91e6915010885fdad8aba877d657da05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4054007ed2e8c7144ab7ee7956eb12b485c0cc8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/acd44164a4f1d13d3393887d7d186e795d808fc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_078252930d29c145a3458c4fddc11038d1730771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/ea805daba59654d9fc4a4a2391c4c793e2897da1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_573a2073a09403190ad302cf72dc3c86041ed987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/a19311903eba075dfb06989341501df7a627925a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_011825e00e3b8494846c0f6cf9dc9847c412e707/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/e62c0c9f319e7cb5e2d72b725ad94babec49f5d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_339371c62d071056c010c0ffb22b6cdd56d5da65/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/cdfc91c600f1a322ff4733a70ba5acbdea65dc11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_714438e53be3c4f1257ef477e74ce61c9f36f807.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/442db16ab44bfd2c10f1a56a2b59556ff792ae9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b95096576cdf85ed664de4c8a6c5a88114e72ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/6e9a4e54f463bc84ddb05050fa976439ba8b7542/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_0f58addb7dc4265118874af8bcf75c235c44fd3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/3616011b1590befdf72b62d5bb900334e520eaef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_3985427fd599696fdba0d2e1dff2ef8393eaf947.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/6a2792bf7045aa2824ab761239687fcf51ae5b78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9384966a4a695fe05a681edea12aaac6676adb8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/feac5f6b06ffad66c7d66e13400f2fc62104aad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4b7c9956f74b19b5d2dd8955db704329b78c58d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/0fffa71faf9caa12248fee163026db591b40def3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_86188f828026e8dbae1d01555bdd9f2dff4cd59f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/51212c299230e04397f9d5e6f449787aa0f7a363/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c23ec6efdf9b56c4aa44ac507d84ff51c6a4e8d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/eb274827b3be6e4ca34abad8a23f1b5f8f73d62f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_4421f417f95b64a698214211b62302efc1b3d3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/e84563fd96f91ad3155fe732e0c2875773d9e853/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_a5e661d71fa15075da32ba44bf44943825a8c931.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/2cb2a3639a1d1a05bfa2e3db1511514313d89db9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_908fe195eec2a8ddbfee571b927520048d94416f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_1cb248e0d5bafd5f5924c5288ab7bd036352e81b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/a32f22e767457eaa129b73c10d851190ae8ecd08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_67d24f96f86c564ff42c4d1c2045c6fb0f74e270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohithkumarn/.android/build-cache/14562f7303fca251722534e38d3ba391ca0d6042/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/rohithkumarn/Box/CS5551-2018Spring/CS5551-Spring2018-Tutorials(rev)/Tutorial-V/CS5551_Tutorial-V/CameraMapsApplication/app/build/intermediates/pre-dexed/debug/classes_b4397fd54b24ad9fa616b5d58b27d429bb908c03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rohithkumarn/.android/build-cache/249f10344d6317fd8a0b4c96ed9396cd16e55e2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/rohithkumarn/Desktop/CS5551-Tutorial5-SourceCode/CS5551_Tutorial5-SourceCode/CameraMapsApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99e0eb87c7431b214e27c99933f59ea220ab9172/classes.dex" />
+    </item>
+
+</items>
